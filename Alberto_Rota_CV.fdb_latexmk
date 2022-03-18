@@ -1,9 +1,9 @@
 # Fdb version 3
-["pdflatex"] 1647552035 "c:/Users/alber/Desktop/Files/CV/Alberto_Rota_CV.tex" "Alberto_Rota_CV.pdf" "Alberto_Rota_CV" 1647552041
-  "Alberto_Rota_CV.aux" 1647552038 766 d2be773f2eb6aabc40a0760dc0a7f24b "pdflatex"
-  "Alberto_Rota_CV.out" 1647552037 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "Alberto_Rota_CV.tex" 1647552040 5779 1fb8f6066ae8e62da0304a8a88ddc4ff ""
-  "c:/Users/alber/Desktop/Files/CV/Alberto_Rota_CV.tex" 1647552040 5779 1fb8f6066ae8e62da0304a8a88ddc4ff ""
+["pdflatex"] 1647606442 "c:/Users/alber/Desktop/Files/CV/Alberto_Rota_CV.tex" "Alberto_Rota_CV.pdf" "Alberto_Rota_CV" 1647606477
+  "Alberto_Rota_CV.aux" 1647606444 766 d2be773f2eb6aabc40a0760dc0a7f24b "pdflatex"
+  "Alberto_Rota_CV.out" 1647606444 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Alberto_Rota_CV.tex" 1647606476 5836 cb2b845f36d81ce5b1dd4139fd6f5aaf ""
+  "c:/Users/alber/Desktop/Files/CV/Alberto_Rota_CV.tex" 1647606476 5836 cb2b845f36d81ce5b1dd4139fd6f5aaf ""
   "c:/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc" 1633949490 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1633950673 2375 baa924870cfb487815765f9094cf3728 ""
   "c:/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1633949872 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -122,7 +122,7 @@
   "pic.jpg" 1647550456 991357 8570b010cebbb224c738c05630013830 ""
   "resume.cls" 1647550456 881 e3a3950f834042c64862c59e120f531d ""
   (generated)
-  "Alberto_Rota_CV.log"
   "Alberto_Rota_CV.aux"
-  "Alberto_Rota_CV.pdf"
   "Alberto_Rota_CV.out"
+  "Alberto_Rota_CV.pdf"
+  "Alberto_Rota_CV.log"

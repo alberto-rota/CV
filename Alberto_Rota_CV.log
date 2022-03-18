@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.10.11)  17 MAR 2022 22:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.10.11)  18 MAR 2022 13:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -358,7 +358,7 @@ File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 File: pic.jpg Graphic file (type jpg)
 <use pic.jpg>
 Package pdftex.def Info: pic.jpg  used on input line 14.
-(pdftex.def)             Requested size: 85.35826pt x 106.99594pt.
+(pdftex.def)             Requested size: 71.13188pt x 89.15793pt.
 
 Underfull \hbox (badness 10000) in alignment at lines 14--14
 [][] 
@@ -404,16 +404,16 @@ Package rerunfilecheck Info: File `Alberto_Rota_CV.out' has not changed.
 Here is how much of TeX's memory you used:
  10813 strings out of 478599
  164317 string characters out of 5858100
- 512250 words of memory out of 5000000
+ 513558 words of memory out of 5000000
  28511 multiletter control sequences out of 15000+600000
  418425 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,20n,80p,385b,945s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}<c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/lm/lmtk10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/lm/lmtt12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/texlive/2021/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb><c:/texlive/2021/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/texlive/2021/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Alberto_Rota_CV.pdf (1 page, 1187129 bytes).
+Output written on Alberto_Rota_CV.pdf (1 page, 1187215 bytes).
 PDF statistics:
- 123 PDF objects out of 1000 (max. 8388607)
- 49 compressed objects within 1 object stream
+ 130 PDF objects out of 1000 (max. 8388607)
+ 50 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
