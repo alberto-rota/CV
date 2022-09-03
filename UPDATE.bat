@@ -2,5 +2,7 @@
 git add . 
 git commit -m "Update"
 git push
-echo "`n UPDATED AND PUSHED TO ORIGIN `n"
-pause 
+echo " "
+echo "UPDATED AND PUSHED TO ORIGIN"
+echo " "
+sleep 2
